@@ -28,5 +28,9 @@ Este projeto é uma aplicação web simples de cadastro e busca de livros, feita
 
 - Clique em "Remover" para excluir um livro da lista.
 
+- ## Dono do Projeto
+
+- Hugo Pires De Oliveira
+
 
 
