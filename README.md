@@ -18,5 +18,15 @@ Este projeto é uma aplicação web simples de cadastro e busca de livros, feita
 - CSS3 (responsivo e estilizado)
 - JavaScript (funções, arrays, objetos, classes, eventos)
 
+## Utilizando o sistema:
+
+- Preencha os campos do formulário com título, autor e categoria do livro.
+
+- Clique em "Cadastrar" para adicionar um livro à lista.
+
+- Use o campo de busca para filtrar os livros por nome ou categoria.
+
+- Clique em "Remover" para excluir um livro da lista.
+
 
 
